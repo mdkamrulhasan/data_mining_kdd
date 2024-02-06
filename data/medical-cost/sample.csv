@@ -87,3 +87,11 @@ age,sex,bmi,children,smoker,region,charges
 45,male,22.895,2,yes,northwest,21098.55405
 57,female,31.16,0,yes,northwest,43578.9394
 56,female,27.2,0,no,southwest,11073.176
+37,female,34.8,2,yes,southwest,39836.519
+45,male,22.895,2,yes,northwest,21098.55405
+57,female,31.16,0,yes,northwest,43578.9394
+56,female,27.2,0,no,southwest,11073.176
+37,female,34.8,2,yes,southwest,39836.519
+45,,22.895,2,yes,northwest,21098.55405
+57,female,31.16,0,yes,northwest,43578.9394
+56,female,27.2,0,no,,11073.176

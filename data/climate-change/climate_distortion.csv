@@ -16,7 +16,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 1999-01-15,Nigeria,Soybeans,12.16,328.52,20.15,3.681,9,47.13,32.95,8.69,36.32,Drought-resistant Crops,894.31
 1990-01-15,France,Soybeans,15.23,1468.76,5.41,3.12,5,62.01,2.49,27.56,76.44,Drought-resistant Crops,1524.34
 2018-01-15,Brazil,Barley,20.83,2639.04,6.01,3.64,10,52.71,28.15,61.34,88.14,Drought-resistant Crops,521.59
-2017-01-15,Nigeria,Coffee,21.95,2480.33,11.71,1.37,10,84.04,19.86,21.74,78.53,Crop Rotation,571.98
+2017-01-15,Nigeria,Coffee,21.95,2480.33,11.71,1.37,10,84.04,19.86,21.74,78.53,,571.98
 1997-01-15,Brazil,Rice,17.45,1634.32,29.55,2.754,5,29.84,48.57,3.21,30.18,No Adaptation,1323.81
 2015-01-15,Russia,Cotton,19.2,1086.11,23.38,3.987,4,47.81,29.58,24.76,82.85,Organic Farming,1805.57
 2000-01-15,Australia,Rice,30.08,1641.99,15.83,3.096,2,94.75,13.7,42.84,73.56,Organic Farming,345.85
@@ -31,7 +31,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 1997-01-15,Australia,Wheat,31.67,2364.58,13.16,3.33,4,72.38,48.77,12.25,94.46,Drought-resistant Crops,1244.49
 1995-01-15,Canada,Cotton,16.52,2025.11,19.6,4.338,10,35.12,21.71,82.16,85.71,No Adaptation,829.0
 2018-01-15,Canada,Fruits,31.98,609.15,11.39,2.33,0,77.23,34.58,85.28,40.44,Drought-resistant Crops,928.74
-2002-01-15,Canada,Soybeans,1.92,541.99,1.31,0.71,10,15.47,33.16,80.93,51.13,No Adaptation,251.0
+2002-01-15,Canada,Soybeans,1.92,541.99,1.31,0.71,10,15.47,33.16,80.93,51.13,,251.0
 2024-01-15,Canada,Barley,4.99,2697.15,28.86,2.619,10,41.07,39.69,31.4,65.11,No Adaptation,657.71
 2004-01-15,China,Rice,-0.5,2892.43,18.33,1.593,7,34.21,13.13,81.9,77.07,Drought-resistant Crops,776.0
 1999-01-15,China,Vegetables,5.46,751.6,21.25,0.54,2,36.9,15.6,35.02,70.14,Organic Farming,140.36
@@ -42,14 +42,14 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2020-01-15,Australia,Sugarcane,17.77,1743.11,13.69,1.69,2,23.95,39.15,67.61,42.34,Water Management,440.49
 2019-01-15,Russia,Vegetables,11.53,2654.03,3.98,2.88,9,59.71,24.21,79.19,36.95,Organic Farming,1018.44
 1994-01-15,Russia,Cotton,19.82,2369.04,17.3,3.024,7,60.14,8.3,87.68,65.87,Drought-resistant Crops,1438.48
-2019-01-15,Argentina,Rice,2.33,839.77,25.67,2.0160000000000005,5,18.4,8.92,70.37,82.21,Organic Farming,524.89
+2019-01-15,Argentina,Rice,2.33,839.77,25.67,2.0160000000000005,5,18.4,8.92,70.37,,Organic Farming,524.89
 1991-01-15,Brazil,Cotton,29.06,566.0,4.34,2.41,4,98.36,39.57,99.73,44.66,No Adaptation,1067.25
 2024-01-15,USA,Wheat,12.18,1647.58,19.1,1.872,8,36.61,43.15,22.46,52.18,Water Management,925.79
 1998-01-15,Brazil,Rice,28.86,1970.45,13.89,1.93,2,41.49,16.31,94.79,55.36,Drought-resistant Crops,763.3
 2022-01-15,China,Barley,6.49,2719.06,23.76,0.873,10,40.98,38.94,77.96,76.68,Organic Farming,118.24
 2015-01-15,Argentina,Rice,4.45,900.63,18.26,0.855,2,18.34,35.77,77.36,58.2,Organic Farming,351.14
 2007-01-15,Brazil,Soybeans,10.27,2913.02,29.03,1.584,1,80.98,25.2,92.15,90.27,No Adaptation,476.68
-2002-01-15,China,Sugarcane,8.88,947.14,20.78,2.241,2,96.9,41.57,56.67,54.44,Crop Rotation,600.91
+2002-01-15,China,Sugarcane,8.88,947.14,20.78,2.241,2,96.9,41.57,56.67,54.44,,600.91
 2007-01-15,India,Vegetables,27.45,784.04,5.55,2.6,6,89.47,28.15,86.71,33.12,Water Management,308.77
 1992-01-15,Canada,Sugarcane,10.05,1945.3,14.37,3.13,6,52.24,35.28,77.08,69.99,Crop Rotation,1307.17
 2016-01-15,India,Cotton,-2.28,2300.89,15.29,1.944,7,28.39,1.51,83.17,63.31,Organic Farming,725.01
@@ -63,7 +63,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2014-01-15,Canada,Coffee,23.46,269.7,24.08,1.809,5,52.5,35.34,79.04,91.9,No Adaptation,387.08
 1999-01-15,Australia,Barley,1.33,305.9,15.74,1.566,3,17.42,10.26,47.41,50.39,No Adaptation,505.46
 2021-01-15,USA,Fruits,23.3,1740.68,25.99,0.747,10,44.5,4.74,20.44,60.39,No Adaptation,372.06
-2003-01-15,France,Cotton,27.89,1929.13,2.54,3.87,6,79.09,40.56,79.56,55.17,No Adaptation,1365.53
+2003-01-15,France,Cotton,27.89,1929.13,2.54,3.87,6,79.09,40.56,79.56,,No Adaptation,1365.53
 2012-01-15,France,Coffee,3.2,2121.73,2.71,2.44,5,67.6,5.22,70.83,94.74,Organic Farming,740.12
 2011-01-15,USA,Corn,15.76,2317.59,21.33,3.807,0,94.85,47.02,35.76,48.6,Drought-resistant Crops,1627.44
 2002-01-15,India,Corn,9.97,2310.19,23.27,1.053,2,19.87,37.64,5.83,97.48,Water Management,285.96
@@ -83,7 +83,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2013-01-15,Argentina,Cotton,23.46,993.99,28.43,1.521,7,73.17,36.38,29.44,71.79,Organic Farming,464.95
 2020-01-15,France,Coffee,16.75,2854.49,22.3,3.366,7,91.45,21.36,80.76,47.8,Water Management,1237.26
 2002-01-15,France,Vegetables,15.62,2348.64,4.1,3.95,8,17.76,30.24,92.96,99.82,Organic Farming,1690.69
-2024-01-15,Brazil,Rice,-0.91,916.1,12.26,0.56,1,31.21,16.7,70.48,78.33,Water Management,146.4
+2024-01-15,Brazil,Rice,-0.91,916.1,12.26,0.56,1,31.21,16.7,70.48,78.33,,146.4
 1991-01-15,Brazil,Corn,10.88,2160.93,3.12,2.13,4,26.25,17.02,58.6,74.0,Water Management,818.6
 2019-01-15,Australia,Wheat,16.22,1222.35,26.35,1.62,3,76.52,40.08,6.97,44.6,Drought-resistant Crops,698.98
 2024-01-15,Argentina,Coffee,2.79,1944.52,20.71,0.8280000000000001,4,58.99,47.96,3.9,73.47,Water Management,226.98
@@ -99,7 +99,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2016-01-15,Nigeria,Barley,15.75,2128.68,20.97,3.483,1,79.63,37.27,16.96,62.68,Water Management,1310.99
 2011-01-15,Australia,Soybeans,1.57,798.14,5.14,2.36,9,51.48,14.31,91.02,32.42,Organic Farming,987.4
 2004-01-15,Nigeria,Corn,32.28,1836.63,11.44,3.42,1,37.67,16.76,29.79,35.55,Water Management,696.8
-1998-01-15,India,Soybeans,12.14,1507.9,1.55,4.79,0,97.69,8.28,56.73,89.16,Organic Farming,1163.98
+1998-01-15,India,Soybeans,12.14,1507.9,1.55,4.79,0,97.69,8.28,56.73,,Organic Farming,1163.98
 2009-01-15,Russia,Wheat,-2.0,2280.09,12.7,1.81,8,93.41,8.64,85.61,48.73,Organic Farming,692.13
 1990-01-15,Canada,Corn,15.3,739.72,5.03,3.27,8,13.92,5.8,9.44,44.82,Crop Rotation,1159.41
 2020-01-15,India,Sugarcane,18.74,309.92,20.51,3.042,9,76.58,48.2,73.87,55.53,No Adaptation,1228.61
@@ -145,7 +145,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2016-01-15,Nigeria,Corn,10.21,1705.08,7.53,4.64,1,62.81,24.76,37.48,39.89,Drought-resistant Crops,2145.28
 1992-01-15,India,Cotton,-0.23,1083.84,21.12,2.673,9,81.21,23.53,13.0,42.85,No Adaptation,652.9
 2009-01-15,Russia,Rice,2.6,1906.86,6.83,2.4,2,83.67,25.95,93.42,41.7,Crop Rotation,666.19
-2007-01-15,India,Vegetables,26.58,1780.37,5.03,2.69,2,52.49,17.98,15.77,73.0,Water Management,289.11
+2007-01-15,India,Vegetables,26.58,1780.37,5.03,2.69,2,52.49,17.98,15.77,73.0,,289.11
 2008-01-15,USA,Barley,20.12,1726.06,17.39,3.519,3,20.93,49.05,38.29,75.91,Water Management,1688.01
 2022-01-15,Brazil,Barley,17.9,2948.08,17.69,2.934,2,51.74,6.4,26.94,32.34,Water Management,1142.6
 1997-01-15,India,Rice,22.27,2731.72,23.5,1.485,6,22.85,0.2,33.03,77.25,Organic Farming,668.63
@@ -176,7 +176,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2003-01-15,Argentina,Soybeans,33.88,2590.81,23.17,2.547,7,21.5,4.66,45.05,62.3,Crop Rotation,727.85
 1998-01-15,Australia,Fruits,8.51,1046.72,29.36,1.215,4,51.07,44.23,59.47,48.58,Water Management,412.13
 1997-01-15,USA,Soybeans,3.84,1178.99,2.49,1.33,1,46.12,3.82,56.68,54.04,Water Management,375.95
-1999-01-15,Argentina,Fruits,0.86,273.9,1.22,2.277,9,18.71,39.47,6.75,57.36,No Adaptation,488.49
+1999-01-15,Argentina,Fruits,0.86,273.9,1.22,2.277,9,18.71,39.47,6.75,,No Adaptation,488.49
 2005-01-15,USA,Fruits,17.33,1339.45,9.85,3.45,0,97.49,44.92,81.19,36.4,No Adaptation,1185.31
 2004-01-15,Canada,Soybeans,29.61,1033.75,11.99,1.63,8,69.45,11.31,35.11,93.48,Drought-resistant Crops,193.86
 2014-01-15,Nigeria,Fruits,27.59,1314.12,25.65,1.152,4,66.76,33.03,63.98,65.8,Crop Rotation,240.63
@@ -211,7 +211,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2003-01-15,Russia,Corn,4.3,2944.75,25.29,0.5940000000000001,3,75.39,2.98,63.54,38.98,Drought-resistant Crops,149.94
 1991-01-15,China,Vegetables,1.28,1509.39,7.2,2.56,0,78.62,10.99,44.64,43.56,Crop Rotation,704.03
 2023-01-15,China,Coffee,1.63,2849.39,10.63,1.01,8,22.35,40.22,77.36,62.31,Water Management,449.33
-2003-01-15,Russia,Corn,3.21,1949.4,13.8,0.9,1,10.42,18.5,55.28,33.1,No Adaptation,234.2
+2003-01-15,Russia,Corn,3.21,1949.4,13.8,0.9,1,10.42,18.5,55.28,33.1,,234.2
 1993-01-15,Argentina,Barley,16.71,1542.5,5.86,3.85,7,65.03,43.62,92.96,39.76,No Adaptation,873.87
 1995-01-15,France,Soybeans,27.16,1497.41,19.99,2.3400000000000003,10,30.3,38.61,48.12,58.51,Drought-resistant Crops,611.28
 1997-01-15,Argentina,Vegetables,15.73,1302.95,23.33,2.988,5,75.15,0.25,2.76,82.94,Water Management,552.73
@@ -1423,11 +1423,11 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 1993-01-15,Brazil,Barley,27.64,303.7,20.0,2.619,3,28.56,12.88,86.06,57.46,Organic Farming,448.86
 2015-01-15,Brazil,Coffee,12.31,1510.51,6.6,3.93,10,88.13,19.79,92.08,66.86,No Adaptation,973.11
 1998-01-15,India,Wheat,16.57,2114.84,30.0,3.663,9,53.27,15.03,75.86,68.01,Water Management,1241.3
-2004-01-15,Nigeria,Cotton,4.48,707.36,26.82,1.314,4,30.98,22.02,98.06,50.95,Drought-resistant Crops,247.1
+2004-01-15,Nigeria,Cotton,4.48,707.36,26.82,1.314,4,30.98,22.02,98.06,50.95,,247.1
 1991-01-15,India,Vegetables,10.38,2625.5,20.89,3.456,8,80.86,0.94,4.36,91.95,No Adaptation,1309.13
 1998-01-15,Australia,Corn,12.0,2183.6,22.36,3.789,1,79.52,46.07,9.08,77.58,Crop Rotation,1413.27
 2018-01-15,Australia,Soybeans,27.78,2725.12,5.6,3.37,5,54.36,9.6,52.34,89.9,No Adaptation,1391.18
-2010-01-15,Canada,Sugarcane,33.76,1341.62,2.92,3.84,10,25.37,1.65,7.09,64.86,Organic Farming,1770.28
+2010-01-15,Canada,Sugarcane,33.76,1341.62,2.92,3.84,10,25.37,1.65,7.09,,Organic Farming,1770.28
 2005-01-15,Brazil,Soybeans,14.58,1159.44,17.08,2.592,2,31.23,18.44,23.58,45.06,Drought-resistant Crops,695.03
 2013-01-15,Nigeria,Wheat,25.04,2499.58,23.19,2.106,7,49.46,40.5,1.19,69.0,No Adaptation,294.93
 2014-01-15,Australia,Fruits,15.72,1450.85,28.3,3.015,2,97.67,42.81,72.05,56.63,Drought-resistant Crops,715.12
@@ -1500,7 +1500,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2014-01-15,Argentina,Coffee,31.4,1029.39,26.42,2.313,7,58.34,40.46,21.07,89.27,No Adaptation,321.81
 2009-01-15,Russia,Vegetables,23.77,322.73,24.92,2.088,3,25.65,20.02,25.86,49.69,Organic Farming,1002.49
 2019-01-15,Australia,Coffee,33.76,497.31,27.03,1.611,9,71.68,41.68,68.32,38.57,Organic Farming,622.16
-1999-01-15,USA,Fruits,24.01,1402.26,21.48,3.519,9,34.7,26.82,54.88,74.55,No Adaptation,1151.52
+1999-01-15,USA,Fruits,24.01,1402.26,21.48,3.519,9,34.7,26.82,54.88,74.55,,1151.52
 1995-01-15,China,Fruits,27.77,1727.46,9.05,0.82,6,69.47,8.14,13.15,66.06,Drought-resistant Crops,284.48
 1991-01-15,Argentina,Fruits,-2.08,1375.08,28.77,0.7020000000000001,9,34.12,20.72,82.59,76.12,Organic Farming,128.11
 2002-01-15,Australia,Corn,9.38,2882.85,25.87,0.99,2,70.86,30.76,58.77,49.23,Organic Farming,191.55
@@ -1554,7 +1554,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2024-01-15,China,Fruits,15.85,339.88,6.45,3.159,10,22.61,27.71,31.54,77.08,Drought-resistant Crops,695.17
 2015-01-15,India,Sugarcane,-0.63,1213.41,2.06,2.51,5,90.78,29.26,32.39,64.05,Organic Farming,1008.27
 2002-01-15,Argentina,Soybeans,27.82,493.73,6.45,1.611,6,40.02,25.72,99.7,39.36,Water Management,180.24
-2000-01-15,Brazil,Coffee,-0.99,2170.6,15.1,2.421,3,43.29,28.03,53.45,40.78,Crop Rotation,293.63
+2000-01-15,Brazil,Coffee,-0.99,2170.6,15.1,2.421,3,43.29,28.03,53.45,,,293.63
 2017-01-15,France,Cotton,12.46,564.34,22.47,3.024,7,39.25,6.93,53.67,34.85,Water Management,1409.77
 2019-01-15,Argentina,Wheat,20.33,1922.68,27.52,3.411,3,74.91,0.15,65.28,49.1,No Adaptation,1291.04
 2009-01-15,Nigeria,Rice,13.82,2159.59,10.16,3.16,3,88.05,0.63,67.47,46.25,Water Management,748.69
@@ -3365,11 +3365,11 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2024-01-15,China,Barley,33.7,1123.66,9.86,2.31,1,75.9,32.86,7.9,63.49,Drought-resistant Crops,623.34
 2021-01-15,USA,Soybeans,28.36,2178.0,15.11,1.998,1,64.12,19.24,56.42,72.87,Water Management,246.71
 1996-01-15,France,Rice,20.26,1377.58,3.84,2.41,0,55.24,1.03,15.38,89.39,Organic Farming,501.07
-2012-01-15,India,Wheat,4.97,755.36,15.11,1.332,4,95.4,40.97,3.14,82.39,Organic Farming,423.6
+2012-01-15,India,Wheat,4.97,755.36,15.11,1.332,4,95.4,40.97,3.14,82.39,,423.6
 2009-01-15,France,Soybeans,28.93,1591.77,24.59,1.908,8,64.1,20.69,84.03,39.86,Drought-resistant Crops,806.64
 2015-01-15,Canada,Rice,33.09,1129.39,25.57,1.602,1,70.47,40.98,62.31,88.76,Crop Rotation,447.74
 1994-01-15,Australia,Vegetables,28.12,885.03,22.19,0.873,7,78.12,12.51,53.2,65.9,Crop Rotation,180.21
-2000-01-15,Canada,Sugarcane,13.52,1500.95,5.34,1.91,6,25.87,31.2,28.76,90.26,Crop Rotation,649.78
+2000-01-15,Canada,Sugarcane,13.52,1500.95,5.34,1.91,6,25.87,31.2,28.76,,Crop Rotation,649.78
 2000-01-15,Nigeria,Rice,4.81,1557.72,6.9,2.65,2,49.13,27.73,82.07,85.79,Water Management,482.38
 2012-01-15,India,Wheat,25.79,1740.23,13.36,3.65,0,42.4,8.93,60.96,45.96,Drought-resistant Crops,1805.18
 2024-01-15,Brazil,Corn,34.42,2959.76,24.33,2.97,10,90.25,21.5,24.92,70.86,Crop Rotation,1007.71
@@ -9984,7 +9984,7 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2016-01-15,USA,Sugarcane,24.58,1067.86,15.6,2.709,8,53.82,31.12,75.01,46.0,Crop Rotation,1291.31
 2017-01-15,USA,Sugarcane,7.35,1107.9,21.69,2.097,10,69.9,9.35,51.99,36.5,Crop Rotation,592.9
 2018-01-15,Russia,Wheat,31.25,2722.72,20.06,0.864,0,13.56,3.59,40.0,41.27,Water Management,377.08
-1999-01-15,India,Coffee,16.69,737.41,23.46,4.248,1,59.98,27.44,51.8,89.66,No Adaptation,1852.07
+1999-01-15,India,Coffee,16.69,737.41,23.46,4.248,1,59.98,27.44,51.8,,,1852.07
 1994-01-15,China,Vegetables,28.44,672.56,26.85,2.295,10,39.62,1.5,92.01,40.81,Drought-resistant Crops,566.46
 1996-01-15,China,Sugarcane,16.46,2686.87,21.21,2.538,5,99.12,36.39,5.82,96.34,Water Management,1099.85
 2023-01-15,Canada,Barley,28.4,2759.02,8.59,2.4,9,94.24,12.0,58.89,99.47,Crop Rotation,1000.74
@@ -9997,5 +9997,5 @@ Date,Country,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emission
 2022-01-15,France,Cotton,30.48,685.93,17.64,3.0330000000000004,9,27.56,41.96,10.95,43.41,No Adaptation,1483.06
 1999-01-15,Australia,Soybeans,9.53,2560.38,10.68,2.56,4,77.02,5.45,82.32,59.39,No Adaptation,829.61
 2000-01-15,Argentina,Coffee,31.92,357.76,26.01,1.161,10,78.53,11.94,26.0,41.46,Water Management,155.99
-1996-01-15,Brazil,Soybeans,13.95,1549.52,17.31,3.3480000000000003,2,42.65,44.71,25.07,75.1,Crop Rotation,1613.9
-2015-01-15,China,Corn,11.78,1676.25,5.34,3.71,5,46.41,48.28,98.27,59.38,Water Management,453.14
+1996-01-15,Brazil,Soybeans,13.95,1549.52,17.31,3.3480000000000003,2,42.65,44.71,25.07,,Crop Rotation,1613.9
+2015-01-15,China,Corn,11.78,1676.25,5.34,3.71,5,46.41,48.28,98.27,59.38,,453.14

@@ -1,0 +1,22 @@
+name,type,max-range,categories,legend
+Age,0.0,0.0,,
+Gender,1.0,0.0,0;1,female;male
+Systemic disease,1.0,0.0,0;1;2;3;4;5,Healthy;Cardiovascular disorder;Diabetes;Osteoporosis;Radiotherapy;Others
+Factors of missing,1.0,0.0,0;1;2;3;4;5,Congenital missing;Caries;Periodontitis;Fracture;Root resorption;Failure of endodontic treatment
+Tobacco smoking,1.0,0.0,0;1;2,Never;Smoking;Stopped
+Betel nut Chewing,1.0,0.0,0;1;2,Never;Chewing;Stopped
+Alcohol consumption,1.0,0.0,0;1;2,Never;Drinking;Stopped
+Departments,1.0,0.0,0;1;2,General practice;Periodontics;Oral-Maxillar surgery
+Surgeon experience,0.0,0.0,,
+Location of implant,1.0,0.0,0;1;2;3;4;5,Maxillary anterior teeth;Maxillary premolars;Maxillary molar;Mandibular anterior teeth;Mandibular premolars;Mandibular molars
+Bone density,1.0,0.0,1;2;3;4,Type I;Type II; Type III;Type IV
+Timing of implant placement,1.0,0.0,1;2;3,Immediate implant placement;Early implant placement;Staged implant placement
+Ridge augmentation,1.0,0.0,0;1;2,None;Guided bone regeneration;Ridge splitting
+Maxillary sinus augmentation,1.0,0.0,0;1;2,None;Lateral window technique;Osteotome technique
+Implant system,1.0,0.0,0;1;2;3;4;5,Straumann;Ankylos;XIVE;Nobeactive;Branemark;Lifecore
+Fixture length,0.0,0.0,,
+Fixture width,0.0,0.0,,
+Types of prosthesis,1.0,0.0,0;1,Fixed denture;Overdenture
+Angle of abutment,1.0,0.0,0;1,Without angle;With angle
+Prosthesis fixation,1.0,0.0,0;1,Cement-retained;Screw-reained
+Dental implant failure,1.0,0.0,0;1,yes;no
